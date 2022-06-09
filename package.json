@@ -1,0 +1,18 @@
+{
+  "name": "tdd_1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  },
+  "dependencies": {
+    "@babel/preset-env": "^7.18.2"
+  }
+}
